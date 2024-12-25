@@ -54,4 +54,4 @@ jobs:
           app-name: 'venkey'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_49CCDEEEE5C243FBAC3F9FE9C55E0075 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6AC04759AD614E58BDCDB1C88215AF9E }}
